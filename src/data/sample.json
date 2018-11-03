@@ -1,0 +1,19 @@
+{
+    "questions": [
+        {
+            "qid": 1,
+            "qname": "Question 1",
+            "type": "text"
+        },
+        {
+            "qid": 2,
+            "qname": "Question 2",
+            "type": "yesno"
+        },
+        {
+            "qid": 3,
+            "qname": "Question 3",
+            "type": "mchoice"
+        }
+    ]
+}
